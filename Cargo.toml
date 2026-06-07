@@ -1,0 +1,11 @@
+[package]
+name = "markov-chain-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["SuperInstance"]
+description = "Markov chains: discrete-time, transition matrices, stationary distributions, absorbing chains, HMM in pure Rust"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/markov-chain-rs"
+keywords = ["markov", "chain", "hmm", "transition", "probability"]
+categories = ["algorithms", "mathematics", "science"]
+readme = "README.md"
