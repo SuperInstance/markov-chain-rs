@@ -2,7 +2,7 @@
 
 ![Rust](https://img.shields.io/badge/rust-stable-orange) ![License](https://img.shields.io/badge/license-MIT-green) ![SuperInstance](https://img.shields.io/badge/SuperInstance-Fleet-purple)
 
-Markov chain algorithms in Rust
+Markov chains: discrete-time, transition matrices, stationary distributions, absorbing chains, HMM in pure Rust
 
 ---
 
